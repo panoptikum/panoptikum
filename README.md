@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Felix and I currenty work as Data Scientist and Engineer for a german tech company.
+- 👀 I’m interested in improving my knowledge in statistics, coding and overall.
+- 🌱 I’m currently learning advanced bash, k8s/openshift, automatisation of deployment.
+- 💞️ I’m looking to collaborate on open data projects, anything related to data governance, mobility and digitalization.
+- 📫 Feel free to contact me on [Twitter](https://twitter.com/idelberf).
