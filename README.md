@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Felix and I currenty work as Data Scientist and Engineer for a german tech company.
-- 👀 I’m interested in improving my knowledge in statistics, coding and overall.
-- 🌱 I’m currently learning advanced bash, k8s/openshift, automatisation of deployment.
-- 💞️ I’m looking to collaborate on open data projects, anything related to data governance, mobility and digitalization.
-- 📫 Feel free to contact me on [Twitter](https://twitter.com/idelberf).
+👋 Hi, I'm Felix — Senior Data Engineer based in Berlin.
+👀 Interested in data platform development, fleet analytics, and autonomous mobility.
+🌱 Currently deepening my knowledge in dbt, AWS, and modern data modeling practices.
+💞️ Open to collaborating on open data projects, especially around mobility, data governance, and urban transport.
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/idelberger-felix/).
